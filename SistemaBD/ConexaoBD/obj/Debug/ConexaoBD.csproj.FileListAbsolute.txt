@@ -1,0 +1,14 @@
+C:\projetos\SistemaBD\ConexaoBD\bin\Debug\ConexaoBD.exe.config
+C:\projetos\SistemaBD\ConexaoBD\bin\Debug\ConexaoBD.exe
+C:\projetos\SistemaBD\ConexaoBD\bin\Debug\ConexaoBD.pdb
+C:\projetos\SistemaBD\ConexaoBD\obj\Debug\ConexaoBD.csprojAssemblyReference.cache
+C:\projetos\SistemaBD\ConexaoBD\obj\Debug\ConexaoBD.csproj.CoreCompileInputs.cache
+C:\projetos\SistemaBD\ConexaoBD\obj\Debug\ConexaoBD.exe
+C:\projetos\SistemaBD\ConexaoBD\obj\Debug\ConexaoBD.pdb
+C:\Users\diego\Desktop\ProjetoBD\SistemaBD\ConexaoBD\obj\Debug\ConexaoBD.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\ProjetoBD\SistemaBD\ConexaoBD\obj\Debug\ConexaoBD.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\ProjetoBD\SistemaBD\ConexaoBD\obj\Debug\ConexaoBD.exe
+C:\Users\diego\Desktop\ProjetoBD\SistemaBD\ConexaoBD\obj\Debug\ConexaoBD.pdb
+C:\Users\diego\Desktop\ProjetoBD\SistemaBD\ConexaoBD\bin\Debug\ConexaoBD.exe.config
+C:\Users\diego\Desktop\ProjetoBD\SistemaBD\ConexaoBD\bin\Debug\ConexaoBD.exe
+C:\Users\diego\Desktop\ProjetoBD\SistemaBD\ConexaoBD\bin\Debug\ConexaoBD.pdb
